@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-02-13 20:51-0000\n"
+"PO-Revision-Date: 2015-02-13 20:54-0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../public/templates/src/partial.hbs:20
+msgid "Action"
+msgstr "アクション"
+
+#: ../../public/templates/src/partial.hbs:26
+msgid "Reload"
+msgstr "リロード"
+
+#: ../../public/templates/src/partial.hbs:29
+msgid "Chamber"
+msgstr "チェンバー"
+
+#: ../../public/templates/src/partial.hbs:32
+msgid "Throw away mag"
+msgstr "等級を捨てる"
+
+#: ../../public/templates/src/partial.hbs:35
+msgid "Put away"
+msgstr "片付ける"
+
+#: ../../public/templates/src/partial.hbs:38
+msgid "Discard"
+msgstr "捨てる"
+
+#: ../../public/templates/src/partial.hbs:40
+msgid "Give to player"
+msgstr "プレイヤーに与える"
+
+#: ../../public/templates/src/partial.hbs:45
+msgid "Throw away"
+msgstr "捨てる"
